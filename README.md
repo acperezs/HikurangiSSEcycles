@@ -1,5 +1,5 @@
 # HikurangiSSEcycles
-Description: Data products for "Segmentation of shallow slow slip events at the Hikurangi subduction zone explained by along-strike changes in fault geometry and plate convergence rates" by A. Pere-Silva, Y. Kaneko, M. Savage, L. Wallace, D. Li, C. Williams.
+Description: Data products for "Segmentation of shallow slow slip events at the Hikurangi subduction zone explained by along-strike changes in fault geometry and plate convergence rates" by A. Perez-Silva, Y. Kaneko, M. Savage, L. Wallace, D. Li, C. Williams.
 
 DATA
 
