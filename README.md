@@ -19,3 +19,8 @@ Slip distribution:
 
 Movies:
 Movie S1. Sliprate evolution on the fault as shown in Figure 4. 
+
+
+SCRIPTS
+
+MATLAB scripts to plot the data
