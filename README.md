@@ -17,6 +17,9 @@ Slip distribution:
 1. Cumulative slip of SSEs between 55 to 75 years (Figure 7a)
 2. Slip budget on the fault over 100 years (Figure 7d)
 
+Recurrence interval:
+1. Recurrence interval at P1, P2 and P3 for models M1-M4 (Figure 9)
+
 Movies:
 Movie S1. Sliprate evolution on the fault as shown in Figure 4. 
 
