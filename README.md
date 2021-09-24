@@ -11,7 +11,10 @@ Parameter setup:
 2. Length of velocity-weakening region in SSE source region (W) (Figure 2c and 2f)
 
 Evolution of slip rate:
-1. Slip rate along the fault strike (Figure 5a)
+1. Slip rate along the fault strike for preferred model with effective stress of 1 MPa (Figure 5a)
+
+Source properties:
+1. Duration, magnitude, maximum slip and maximum slip rate for preferred model with effective stress of 1 MPa (Figure 6)
 
 Slip distribution:
 1. Cumulative slip of SSEs between 55 to 75 years (Figure 7a)
@@ -19,6 +22,10 @@ Slip distribution:
 
 Recurrence interval:
 1. Recurrence interval at P1, P2 and P3 for models M1-M4 (Figure 9)
+
+Scaling relations: 
+1. Moment-duration scaling (Figure 10a)
+2. Moment-area scaling (Figure 10b)
 
 Movies:
 Movie S1. Sliprate evolution on the fault as shown in Figure 4. 
