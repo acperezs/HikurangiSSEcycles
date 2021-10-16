@@ -27,9 +27,6 @@ Scaling relations:
 1. Moment-duration scaling (Figure 10a)
 2. Moment-area scaling (Figure 10b)
 
-Movies:
-Movie S1. Sliprate evolution on the fault as shown in Figure 4. 
-
 
 SCRIPTS
 
